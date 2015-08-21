@@ -1,0 +1,17 @@
+{
+  "name": "cutebot",
+  "version": "1.0.0",
+  "description": "a bot to tell u how cute you are",
+  "main": "bot.js",
+  "dependencies": {
+    "forever": "^0.15.1",
+    "twit": "^2.1.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
