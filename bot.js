@@ -202,9 +202,9 @@ stream.on('tweet', function (msg) {
 
 	console.log(msg);
 
-	if (screenName !== 'IsReallyCute') {
+	if (msg.in_reply_to_screen_name === 'IsReallyCute') {
 		T.post('statuses/update', { status: '@' + screenName + ' ' + niceReply }, function(err, data, response) {
-			console.log(data)
+			// console.log(data)
 		})
 	}
 
