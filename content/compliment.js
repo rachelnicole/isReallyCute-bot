@@ -1,0 +1,20 @@
+module.exports = [
+	'you are super cute!',
+	'you are rly cute',
+	'you look cute today',
+	'you are soooo cute',
+	'how did you get so cute?',
+	'you\'re kind of the cutest!',
+	'everyone wishes they were as cute as you',
+	'your cuteness meter is off the charts!',
+	'your cuteness is glowing!',
+	'you have very cute hair',
+	'I like your cute style',
+	'your avatar is super cute',
+	'you have a cute face',
+	'how are you so cute???',
+	'you are the cutest new follower I have!',
+	'you have the cutest smile',
+	'your eyes are so cute!',
+	'UR A QT'
+];
