@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a bot to tell u how cute you are",
   "main": "bot.js",
+  "scripts": {
+              "start" : "node bot.js"
+             },
   "dependencies": {
     "forever": "^0.15.1",
     "twit": "^2.1.0",
