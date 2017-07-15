@@ -96,6 +96,8 @@ module.exports = [
 	'you are made of stardust and galaxies, cutie',
 	'you\'re like the human personification of a ray of sunshine',
 	'don\t let anyone tell you that you are tap water. you are fiji water!',
-	'you\'re my favorite kind of human'
+	'you\'re my favorite kind of human',
+	'i\'m so glad you\'re around',
+	'talking to you makes me feel much better'
 
 ];
