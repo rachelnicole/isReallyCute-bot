@@ -1,8 +1,8 @@
-#IsReallyCute
+# IsReallyCute
 
 This bot tells new followers how cute they are, and also compliments people when they talk to it.
 
-#~Learning~
+# ~Learning~
 
 The base for this bot is from Darius Kazemi's example bot https://github.com/dariusk/examplebot
 
